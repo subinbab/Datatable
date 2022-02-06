@@ -1,0 +1,8 @@
+D:\git\Datatable\ModelLayer\bin\Debug\ModelLayer.dll
+D:\git\Datatable\ModelLayer\bin\Debug\ModelLayer.pdb
+D:\git\Datatable\ModelLayer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\git\Datatable\ModelLayer\obj\Debug\ModelLayer.csproj.AssemblyReference.cache
+D:\git\Datatable\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+D:\git\Datatable\ModelLayer\obj\Debug\ModelLayer.csproj.CopyComplete
+D:\git\Datatable\ModelLayer\obj\Debug\ModelLayer.dll
+D:\git\Datatable\ModelLayer\obj\Debug\ModelLayer.pdb
