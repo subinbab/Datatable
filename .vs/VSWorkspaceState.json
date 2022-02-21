@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Datatable",
+    "\\Datatable\\App_Start",
+    "\\Datatable\\Views",
+    "\\Datatable\\Views\\Home",
+    "\\viewpart",
+    "\\viewpart1",
+    "\\viewpart1\\Views",
+    "\\viewpart1\\Views\\Home",
+    "\\viewpart\\Views",
+    "\\viewpart\\Views\\Home"
+  ],
+  "SelectedNode": "\\Datatable\\App_Start\\WebApiConfig.cs",
+  "PreviewInSolutionExplorer": false
+}

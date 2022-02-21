@@ -5,7 +5,22 @@
       "ProjectGuid": "fc54daa4-e80d-476d-9bcb-d3bffa4db642",
       "DisplayName": "Datatable",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "709d92c2-3ba8-4d6d-b2e5-dd73c75b998d": {
+      "ProjectGuid": "709d92c2-3ba8-4d6d-b2e5-dd73c75b998d",
+      "DisplayName": "viewpart",
+      "ColorIndex": 1
+    },
+    "ba8ed6fa-85c2-4b8d-a309-0b436eb389b9": {
+      "ProjectGuid": "ba8ed6fa-85c2-4b8d-a309-0b436eb389b9",
+      "DisplayName": "viewpart1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

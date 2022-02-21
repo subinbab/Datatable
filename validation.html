@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label>email</label>
+    <input type="text" id="email" placeholder="email@gmail.com"></input>
+    <button onclick="email()">submit</button>
+    <script>
+     function email(){
+         var name = document.getElementById("email").value
+         var name1 = "helo"
+         var check = name.value.match(name1)
+        //  alert(name);
+         if(check){
+             alert("success")
+         }
+         else{
+             alert("unsuccess")
+         }
+        //  alert(name);
+    }
+    </script>
+</body>
+</html>
